@@ -3,7 +3,8 @@
     background-color: #6c0202;
 } */
 
-.header_class{
+.hero_class{
     display: flex;
     flex-direction: column;
 }
+

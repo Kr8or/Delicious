@@ -4,7 +4,48 @@
 } */
 
 .hero_class{
+    background: radial-gradient(circle at left, #B20204, #C00601);
     display: flex;
-    flex-direction: column;
+    height: 500px;
+    padding: 40px;
+    position:relative;
+    overflow: hidden;
+    justify-content: space-between;
+    align-items: center;
 }
 
+.hero_text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    justify-content: center;
+}
+
+.hero_header{
+    font-size: 45px;
+    font-weight: 800;
+    line-height: 3.5rem;
+    margin-bottom: 0;
+    width: 400px;
+
+}
+
+.hero_copy{
+    margin-top: 10px;
+    font-size: 14px;    
+    width: 400px;
+}
+
+.hero_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    /* background: radial-gradient(circle, #C00601, #B20204); */
+}
+
+.hero_img{
+    width: 100%;
+    margin-left: -100px;
+}

@@ -1,7 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
     color: #fff;
-    background: linear-gradient(90deg, #6D0302 0%, #B10203 100%);
+    background-color: white;
+    /* background: linear-gradient(90deg, #6D0302 0%, #B10203 100%); */
     margin: 0;
     padding: 0;
 }

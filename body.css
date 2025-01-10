@@ -4,13 +4,13 @@
 } */
 
 .hero_class{
-    background: radial-gradient(circle at left, #B20204, #C00601);
+    background: radial-gradient(circle at right, #C40805,#B20204);
     display: flex;
     height: 500px;
     padding: 40px;
     position:relative;
     overflow: hidden;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     align-items: center;
 }
 
@@ -47,5 +47,5 @@
 
 .hero_img{
     width: 100%;
-    margin-left: -100px;
+    margin-left: 0px;
 }

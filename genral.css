@@ -1,10 +1,15 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif;
     color: #fff;
     background-color: white;
-    /* background: linear-gradient(90deg, #6D0302 0%, #B10203 100%); */
     margin: 0;
     padding: 0;
+    min-height: 100vh;
+    background: linear-gradient(
+        135deg,
+        #cc0000 0%,
+        #990000 100%
+    ); */
 }
 
 p{

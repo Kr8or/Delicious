@@ -1,15 +1,9 @@
 body{
-    /* font-family: 'Roboto', sans-serif;
+    font-family: Montserrat;
     color: #fff;
-    background-color: white;
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    background: linear-gradient(
-        135deg,
-        #cc0000 0%,
-        #990000 100%
-    ); */
 }
 
 p{

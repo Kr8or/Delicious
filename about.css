@@ -1,0 +1,56 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 423px;
+    background: radial-gradient(
+    72.52% 72.52% at  36.26% 63.87%,
+    #D30606 0%,
+    #9A0404 57%,
+    #6D0303 100%
+);
+}
+
+.about_img{
+    width: 50%;
+    height: 100%;
+    margin-left: 180px;
+    margin-right: 50px;
+    margin-top: 20px
+}
+
+.about_image{
+    width: 100%;
+    background-size: contain;
+}
+
+.about_text{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+    margin-right: 180px;
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.about_title{
+    font-size: 50px;
+    font-weight: 800;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 55px;
+}
+
+.about_desc{
+    font-size: 15px;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-top: 10px;
+
+}
+
+.cta_about{
+    margin-top: 10px;
+}
+
